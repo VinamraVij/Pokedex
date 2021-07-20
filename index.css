@@ -1,0 +1,222 @@
+.appbar{
+    background-image: url(./logo.png);
+    height: 110px;
+    background-repeat: round;
+    width: 100%;
+}
+.searchbar{
+    height: 46.64px;
+    width: 100%;
+    background-color: white;
+    margin-top: 20;
+    padding-left: 93px;
+}
+.search{
+    height: 32px;
+    width: 32px;
+    position: absolute;
+    top: 146px;
+    left: 40px;
+}
+.tag{
+    margin: 0 20px;
+}
+.line{
+    border-left: 1px solid black;
+    position: absolute;
+    height: 45px;
+    top: 139px;
+    left: 90px;
+}
+.pokecard1{
+    position: absolute;
+    height: 246px;
+    width: 155px;
+    background-color: white;
+    border-radius: 31px;
+    margin-top: 33px;
+    margin-left: 115px;
+    box-shadow: 4px 6px 5px #696969;
+}
+.pokecard2{
+    position: absolute;
+    height: 246px;
+    width: 155px;
+    background-color: white;
+    border-radius: 31px;
+    margin-top: 33px;
+    margin-left: 305px;
+    box-shadow: 4px 6px 5px #696969;
+}
+.pokecard3{
+    position: absolute;
+    height: 246px;
+    width: 155px;
+    background-color: white;
+    border-radius: 31px;
+    margin-top: 33px;
+    margin-left: 495px;
+    box-shadow: 4px 6px 5px #696969;
+}
+.pokecard4{
+    position: absolute;
+    height: 246px;
+    width: 155px;
+    background-color: white;
+    border-radius: 31px;
+    margin-top: 33px;
+    margin-left: 685px;
+    box-shadow: 4px 6px 5px #696969;
+}
+.pokecard5{
+    position: absolute;
+    height: 246px;
+    width: 155px;
+    background-color: white;
+    border-radius: 31px;
+    margin-top: 33px;
+    margin-left: 875px;
+    box-shadow: 4px 6px 5px #696969;
+}
+.pokecard6{
+    position: absolute;
+    height: 246px;
+    width: 155px;
+    background-color: white;
+    border-radius: 31px;
+    margin-top: 33px;
+    margin-left: 1065px;
+    box-shadow: 4px 6px 5px #696969;
+}
+.pikachu{
+    width: 83px;
+    height: 110px;
+    margin-left: 33px;
+    margin-top: 22px;
+}
+.bulbasaur{
+    width: 110px;
+    height: 110px;
+    margin-left: 33px;
+    margin-top: 22px;
+}
+.squirtle{
+    width: 110px;
+    height: 110px;
+    margin-left: 33px;
+    margin-top: 22px;
+}
+.ghastly{
+    width: 110px;
+    height: 110px;
+    margin-left: 33px;
+    margin-top: 22px;
+}
+.charmainder{
+    width: 144px;
+    height: 144px;
+    margin-left: 8px;
+    margin-top: 13px;
+}
+.glalie{
+    width: 123px;
+    height: 123px;
+    margin-left:16px;
+    margin-top: 16px;
+}
+.Pikachu1{
+    height: 11px;
+    width: 75px;
+    font-size: 24px;
+    margin-left: 39px;
+    margin-top: 7px;
+    font-family: Ebrima;
+}
+.electric{
+    height: 13px;
+    width: 42px;
+    margin-left: 54px;
+    font-size: 13px;
+    font-family: Bell MT;
+    color: #828282
+}
+.squirtle1{
+    height: 11px;
+    width: 75px;
+    font-size: 24px;
+    margin-left: 39px;
+    margin-top: 7px;
+    font-family: Ebrima;
+}
+.water{
+    height: 13px;
+    width: 42px;
+    margin-left: 58px;
+    font-size: 13px;
+    font-family: Bell MT;
+    color: #828282
+}
+.bulbasaur1{
+    height: 11px;
+    width: 75px;
+    font-size: 24px;
+    margin-left: 22px;
+    margin-top: 7px;
+    font-family: Ebrima;
+}
+.grass{
+    height: 13px;
+    width: 42px;
+    margin-left: 56px;
+    font-size: 13px;
+    font-family: Bell MT;
+    color: #828282
+}
+.ghastly1{
+    height: 11px;
+    width: 75px;
+    font-size: 24px;
+    margin-left: 41px;
+    margin-top: 7px;
+    font-family: Ebrima;
+}
+.ghost{
+    height: 13px;
+    width: 42px;
+    margin-left: 56px;
+    font-size: 13px;
+    font-family: Bell MT;
+    color: #828282
+}
+.charmainder1{
+    height: 9px;
+    width: 75px;
+    font-size: 24px;
+    margin-left: 10px;
+    margin-top: -16px;
+    font-family: Ebrima;
+}
+.fire{
+    height: 13px;
+    width: 42px;
+    margin-left: 63px;
+    font-size: 13px;
+    font-family: Bell MT;
+    color: #828282
+}
+.glalie1{
+    height: 9px;
+    width: 75px;
+    font-size: 24px;
+    margin-left: 48px;
+    margin-top: 5px;
+    font-family: Ebrima;
+}
+.ice{
+    height: 13px;
+    width: 42px;
+    margin-left: 68px;
+    font-size: 13px;
+    font-family: Bell MT;
+    color: #828282
+}
